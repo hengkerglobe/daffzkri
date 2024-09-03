@@ -1,0 +1,40 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+     }
+
+.container-navbar {
+    background-color: blue;
+    font-size: 50px;
+    align-items: center;
+    }
+
+ul {
+    width: 100%;
+    height: 50px; 
+}
+
+.ul-navbar {
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center; 
+}
+
+.ri-navbar {
+    list-style-type: none;
+    border-bottom: none;
+   }
+
+.img-content {
+    max-width: 30%;
+    height: 30%;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.foto-content {
+    width: 20%;
+    height: 30%;
+}
